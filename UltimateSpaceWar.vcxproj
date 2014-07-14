@@ -402,6 +402,7 @@
     <ClCompile Include="GameEngine.cpp" />
     <ClCompile Include="Render2D.cpp" />
     <ClCompile Include="UltimateSpaceWar.cpp" />
+    <ClCompile Include="Vector2D.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DDSTextureLoader.h" />
@@ -409,6 +410,7 @@
     <ClInclude Include="GameEngine.h" />
     <ClInclude Include="Render2D.h" />
     <CLInclude Include="resource.h" />
+    <ClInclude Include="Vector2D.h" />
     <ResourceCompile Include="UltimateSpaceWar.rc" />
   </ItemGroup>
   <ItemGroup>

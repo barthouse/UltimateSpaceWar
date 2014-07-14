@@ -72,12 +72,12 @@ void Render2D_DrawVertices(Vertex2D * inVertices, int inCount)
 	// transform the vertices from (-100,100) to (-1,1)
 	for (int i = 0; i < inCount; i++)
 	{
-		vertices[i].Pos.x = inVertices[i].m_x * (1.0f / 100.0f);
-		vertices[i].Pos.y = inVertices[i].m_y * (1.0f / 100.0f);
+		vertices[i].Pos.x = inVertices[i].m_position.m_x * (1.0f / 100.0f);
+        vertices[i].Pos.y = inVertices[i].m_position.m_y * (1.0f / 100.0f);
 		vertices[i].Pos.z = 0.5;
 
-		vertices[i].Tex.x = inVertices[i].m_u;
-		vertices[i].Tex.y = inVertices[i].m_v;
+		vertices[i].Tex.x = inVertices[i].m_texture.m_x;
+        vertices[i].Tex.y = inVertices[i].m_texture.m_y;
 	}
 
 	g_pVertexBuffer->Release();
@@ -362,4 +362,29 @@ void Render2D_Present(void)
 {
     // Present the information rendered to the back buffer to the front buffer (the screen)
     g_pSwapChain->Present( 0, 0 );
+}
+
+void Render2D_DrawSprite(Sprite * sprite)
+{
+    const Vertex2D verticies[] = {
+            { { -1.0f, 1.0f }, { 0, 0 } },
+            { { 1.0f, 1.0f }, { 0.25, 0 } },
+            { { -1.0f, -1.0f }, { 0, 0.25 } },
+            { { 1.0f, 1.0f }, { 0.25, 0 } },
+            { { 1.0f, -1.0f }, { 0.25, 0.25 } },
+            { { -1.0f, -1.0f }, { 0, 0.25 } } };
+
+    Vertex2D transformedVertices[6];
+
+    for (int i = 0; i < 6; i++)
+    {
+        transformedVertices[i] = verticies[i];
+        transformedVertices[i].m_position.Transform(sprite->m_scale, sprite->m_rotation, sprite->m_position);
+
+        transformedVertices[i].m_texture.m_x += sprite->m_tile.m_x * 0.25f;
+        transformedVertices[i].m_texture.m_y += sprite->m_tile.m_y * 0.25f;
+    }
+
+    Render2D_DrawVertices(transformedVertices, 6);
+
 }

@@ -1178,1841 +1178,1880 @@ simulating time = 392
 acceleration = 0.000000 , 0.000000
  ship volocity 0.000000 , 0.000000
 simulating time = 393
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.000292 , 0.000956
 simulating time = 394
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.000585 , 0.001913
 simulating time = 395
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.000877 , 0.002869
 simulating time = 396
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.001169 , 0.003825
 simulating time = 397
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.001462 , 0.004782
 simulating time = 398
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.001754 , 0.005738
 simulating time = 399
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.002047 , 0.006694
 simulating time = 400
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.002339 , 0.007650
 simulating time = 401
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000292 , 0.000956
+ ship volocity 0.002631 , 0.008607
 simulating time = 402
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 403
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 404
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 405
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 406
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 407
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 408
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 409
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 410
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 411
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 412
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 413
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 414
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 415
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 416
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 417
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 418
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 419
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 420
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 421
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 422
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 423
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 424
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 425
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 426
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 427
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 428
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 429
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 430
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 431
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 432
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 433
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 434
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 435
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 436
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 437
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 438
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 439
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 440
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 441
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 442
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 443
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 444
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 445
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 446
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 447
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 448
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 449
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 450
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 451
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 452
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 453
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 454
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 455
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 456
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 457
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 458
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 459
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 460
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 461
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 462
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 463
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 464
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 465
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 466
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 467
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 468
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 469
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 470
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 471
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 472
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 473
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 474
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 475
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 476
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 477
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 478
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 479
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 480
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 481
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.002631 , 0.008607
 simulating time = 482
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.003577 , 0.008932
 simulating time = 483
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.004522 , 0.009258
 simulating time = 484
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.005468 , 0.009583
 simulating time = 485
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.006413 , 0.009909
 simulating time = 486
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.007359 , 0.010235
 simulating time = 487
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.008304 , 0.010560
 simulating time = 488
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.009250 , 0.010886
 simulating time = 489
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.010195 , 0.011211
 simulating time = 490
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.011141 , 0.011537
 simulating time = 491
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.012087 , 0.011862
 simulating time = 492
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.013032 , 0.012188
 simulating time = 493
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.013978 , 0.012514
 simulating time = 494
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.014923 , 0.012839
 simulating time = 495
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.015869 , 0.013165
 simulating time = 496
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.016814 , 0.013490
 simulating time = 497
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.017760 , 0.013816
 simulating time = 498
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.018705 , 0.014141
 simulating time = 499
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.019651 , 0.014467
 simulating time = 500
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.020596 , 0.014793
 simulating time = 501
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.021542 , 0.015118
 simulating time = 502
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.022487 , 0.015444
 simulating time = 503
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.023433 , 0.015769
 simulating time = 504
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.024378 , 0.016095
 simulating time = 505
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.025324 , 0.016420
 simulating time = 506
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.026269 , 0.016746
 simulating time = 507
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.027215 , 0.017072
 simulating time = 508
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.028160 , 0.017397
 simulating time = 509
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.029106 , 0.017723
 simulating time = 510
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.030051 , 0.018048
 simulating time = 511
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.030997 , 0.018374
 simulating time = 512
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.031942 , 0.018699
 simulating time = 513
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.032888 , 0.019025
 simulating time = 514
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.033833 , 0.019350
 simulating time = 515
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.034779 , 0.019676
 simulating time = 516
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.035724 , 0.020002
 simulating time = 517
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.036670 , 0.020327
 simulating time = 518
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.037616 , 0.020653
 simulating time = 519
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.038561 , 0.020978
 simulating time = 520
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.039507 , 0.021304
 simulating time = 521
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.040452 , 0.021629
 simulating time = 522
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.041398 , 0.021955
 simulating time = 523
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.042343 , 0.022281
 simulating time = 524
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.043289 , 0.022606
 simulating time = 525
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.044234 , 0.022932
 simulating time = 526
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.045180 , 0.023257
 simulating time = 527
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.046125 , 0.023583
 simulating time = 528
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.047071 , 0.023908
 simulating time = 529
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.048016 , 0.024234
 simulating time = 530
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.048962 , 0.024560
 simulating time = 531
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.049907 , 0.024885
 simulating time = 532
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.050853 , 0.025211
 simulating time = 533
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.051798 , 0.025536
 simulating time = 534
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.052744 , 0.025862
 simulating time = 535
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.053689 , 0.026187
 simulating time = 536
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.054635 , 0.026513
 simulating time = 537
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.055580 , 0.026839
 simulating time = 538
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.056526 , 0.027164
 simulating time = 539
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.057471 , 0.027490
 simulating time = 540
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.058417 , 0.027815
 simulating time = 541
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.059362 , 0.028141
 simulating time = 542
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.060308 , 0.028466
 simulating time = 543
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.061254 , 0.028792
 simulating time = 544
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.062199 , 0.029118
 simulating time = 545
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.063145 , 0.029443
 simulating time = 546
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.064090 , 0.029769
 simulating time = 547
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.065036 , 0.030094
 simulating time = 548
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.065981 , 0.030420
 simulating time = 549
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.066927 , 0.030745
 simulating time = 550
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.067872 , 0.031071
 simulating time = 551
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.068818 , 0.031397
 simulating time = 552
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.069763 , 0.031722
 simulating time = 553
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.070709 , 0.032048
 simulating time = 554
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.071654 , 0.032373
 simulating time = 555
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.072600 , 0.032699
 simulating time = 556
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.073545 , 0.033024
 simulating time = 557
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000946 , 0.000326
+ ship volocity 0.074491 , 0.033350
 simulating time = 558
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 559
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 560
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 561
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 562
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 563
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 564
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 565
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 566
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 567
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 568
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 569
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 570
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 571
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 572
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 573
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 574
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 575
 acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+ ship volocity 0.074491 , 0.033350
 simulating time = 576
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.073545 , 0.033024
 simulating time = 577
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.072600 , 0.032699
 simulating time = 578
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.071654 , 0.032373
 simulating time = 579
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.070709 , 0.032048
 simulating time = 580
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.069763 , 0.031722
 simulating time = 581
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.068818 , 0.031397
 simulating time = 582
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.067872 , 0.031071
 simulating time = 583
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.066927 , 0.030745
 simulating time = 584
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.065981 , 0.030420
 simulating time = 585
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.065036 , 0.030094
 simulating time = 586
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.064090 , 0.029769
 simulating time = 587
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.063145 , 0.029443
 simulating time = 588
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.062199 , 0.029118
 simulating time = 589
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.061254 , 0.028792
 simulating time = 590
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.060308 , 0.028466
 simulating time = 591
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.059362 , 0.028141
 simulating time = 592
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.058417 , 0.027815
 simulating time = 593
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.057471 , 0.027490
 simulating time = 594
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.056526 , 0.027164
 simulating time = 595
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.055580 , 0.026839
 simulating time = 596
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.054635 , 0.026513
 simulating time = 597
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.053689 , 0.026187
 simulating time = 598
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.052744 , 0.025862
 simulating time = 599
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.051798 , 0.025536
 simulating time = 600
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.050853 , 0.025211
 simulating time = 601
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.049907 , 0.024885
 simulating time = 602
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.048962 , 0.024560
 simulating time = 603
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.048016 , 0.024234
 simulating time = 604
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.047071 , 0.023908
 simulating time = 605
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.046125 , 0.023583
 simulating time = 606
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.045180 , 0.023257
 simulating time = 607
-acceleration = 0.000000 , 0.000000
- ship volocity 0.000000 , 0.000000
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.044234 , 0.022932
 simulating time = 608
-acceleration = 0.000788 , 0.000616
- ship volocity 0.000788 , 0.000616
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.043289 , 0.022606
 simulating time = 609
-acceleration = 0.000788 , 0.000616
- ship volocity 0.001576 , 0.001231
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.042343 , 0.022281
 simulating time = 610
-acceleration = 0.000788 , 0.000616
- ship volocity 0.002364 , 0.001847
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.041398 , 0.021955
 simulating time = 611
-acceleration = 0.000788 , 0.000616
- ship volocity 0.003152 , 0.002463
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.040452 , 0.021629
 simulating time = 612
-acceleration = 0.000788 , 0.000616
- ship volocity 0.003940 , 0.003078
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.039507 , 0.021304
 simulating time = 613
-acceleration = 0.000788 , 0.000616
- ship volocity 0.004728 , 0.003694
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.038561 , 0.020978
 simulating time = 614
-acceleration = 0.000788 , 0.000616
- ship volocity 0.005516 , 0.004310
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.037616 , 0.020653
 simulating time = 615
-acceleration = 0.000788 , 0.000616
- ship volocity 0.006304 , 0.004925
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.036670 , 0.020327
 simulating time = 616
-acceleration = 0.000788 , 0.000616
- ship volocity 0.007092 , 0.005541
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.035724 , 0.020002
 simulating time = 617
-acceleration = 0.000788 , 0.000616
- ship volocity 0.007880 , 0.006157
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.034779 , 0.019676
 simulating time = 618
-acceleration = 0.000788 , 0.000616
- ship volocity 0.008668 , 0.006772
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.033833 , 0.019350
 simulating time = 619
-acceleration = 0.000788 , 0.000616
- ship volocity 0.009456 , 0.007388
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.032888 , 0.019025
 simulating time = 620
-acceleration = 0.000788 , 0.000616
- ship volocity 0.010244 , 0.008004
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.031942 , 0.018699
 simulating time = 621
-acceleration = 0.000788 , 0.000616
- ship volocity 0.011032 , 0.008619
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.030997 , 0.018374
 simulating time = 622
-acceleration = 0.000788 , 0.000616
- ship volocity 0.011820 , 0.009235
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.030051 , 0.018048
 simulating time = 623
-acceleration = 0.000788 , 0.000616
- ship volocity 0.012608 , 0.009851
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.029106 , 0.017723
 simulating time = 624
-acceleration = 0.000788 , 0.000616
- ship volocity 0.013396 , 0.010466
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.028160 , 0.017397
 simulating time = 625
-acceleration = 0.000788 , 0.000616
- ship volocity 0.014184 , 0.011082
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.027215 , 0.017072
 simulating time = 626
-acceleration = 0.000788 , 0.000616
- ship volocity 0.014972 , 0.011698
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.026269 , 0.016746
 simulating time = 627
-acceleration = 0.000788 , 0.000616
- ship volocity 0.015760 , 0.012313
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.025324 , 0.016420
 simulating time = 628
-acceleration = 0.000788 , 0.000616
- ship volocity 0.016548 , 0.012929
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.024378 , 0.016095
 simulating time = 629
-acceleration = 0.000788 , 0.000616
- ship volocity 0.017336 , 0.013545
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.023433 , 0.015769
 simulating time = 630
-acceleration = 0.000788 , 0.000616
- ship volocity 0.018124 , 0.014160
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.022487 , 0.015444
 simulating time = 631
-acceleration = 0.000788 , 0.000616
- ship volocity 0.018912 , 0.014776
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.021542 , 0.015118
 simulating time = 632
-acceleration = 0.000788 , 0.000616
- ship volocity 0.019700 , 0.015392
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.020596 , 0.014793
 simulating time = 633
-acceleration = 0.000788 , 0.000616
- ship volocity 0.020488 , 0.016007
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.019651 , 0.014467
 simulating time = 634
-acceleration = 0.000788 , 0.000616
- ship volocity 0.021276 , 0.016623
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.018705 , 0.014141
 simulating time = 635
-acceleration = 0.000788 , 0.000616
- ship volocity 0.022064 , 0.017239
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.017760 , 0.013816
 simulating time = 636
-acceleration = 0.000788 , 0.000616
- ship volocity 0.022852 , 0.017854
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.016814 , 0.013490
 simulating time = 637
-acceleration = 0.000788 , 0.000616
- ship volocity 0.023640 , 0.018470
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.015869 , 0.013165
 simulating time = 638
-acceleration = 0.000788 , 0.000616
- ship volocity 0.024428 , 0.019086
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.014923 , 0.012839
 simulating time = 639
-acceleration = 0.000788 , 0.000616
- ship volocity 0.025216 , 0.019701
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.013978 , 0.012514
 simulating time = 640
-acceleration = 0.000788 , 0.000616
- ship volocity 0.026004 , 0.020317
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.013032 , 0.012188
 simulating time = 641
-acceleration = 0.000788 , 0.000616
- ship volocity 0.026792 , 0.020933
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.012087 , 0.011862
 simulating time = 642
-acceleration = 0.000788 , 0.000616
- ship volocity 0.027580 , 0.021548
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.011141 , 0.011537
 simulating time = 643
-acceleration = 0.000788 , 0.000616
- ship volocity 0.028368 , 0.022164
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.010195 , 0.011211
 simulating time = 644
-acceleration = 0.000788 , 0.000616
- ship volocity 0.029156 , 0.022779
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.009250 , 0.010886
 simulating time = 645
-acceleration = 0.000788 , 0.000616
- ship volocity 0.029944 , 0.023395
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.008304 , 0.010560
 simulating time = 646
-acceleration = 0.000788 , 0.000616
- ship volocity 0.030732 , 0.024011
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.007359 , 0.010235
 simulating time = 647
-acceleration = 0.000788 , 0.000616
- ship volocity 0.031520 , 0.024626
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.006413 , 0.009909
 simulating time = 648
-acceleration = 0.000788 , 0.000616
- ship volocity 0.032308 , 0.025242
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.005468 , 0.009583
 simulating time = 649
-acceleration = 0.000788 , 0.000616
- ship volocity 0.033096 , 0.025858
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.004522 , 0.009258
 simulating time = 650
-acceleration = 0.000788 , 0.000616
- ship volocity 0.033884 , 0.026473
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.003577 , 0.008932
 simulating time = 651
-acceleration = 0.000788 , 0.000616
- ship volocity 0.034672 , 0.027089
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.002631 , 0.008607
 simulating time = 652
-acceleration = 0.000788 , 0.000616
- ship volocity 0.035460 , 0.027705
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.001686 , 0.008281
 simulating time = 653
-acceleration = 0.000788 , 0.000616
- ship volocity 0.036248 , 0.028320
+acceleration = -0.000946 , -0.000326
+ ship volocity 0.000740 , 0.007956
 simulating time = 654
-acceleration = 0.000788 , 0.000616
- ship volocity 0.037037 , 0.028936
+acceleration = -0.000946 , -0.000326
+ ship volocity -0.000205 , 0.007630
 simulating time = 655
-acceleration = 0.000788 , 0.000616
- ship volocity 0.037825 , 0.029552
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 656
-acceleration = 0.000788 , 0.000616
- ship volocity 0.038613 , 0.030167
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 657
-acceleration = 0.000788 , 0.000616
- ship volocity 0.039401 , 0.030783
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 658
-acceleration = 0.000788 , 0.000616
- ship volocity 0.040189 , 0.031399
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 659
-acceleration = 0.000788 , 0.000616
- ship volocity 0.040977 , 0.032014
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 660
-acceleration = 0.000788 , 0.000616
- ship volocity 0.041765 , 0.032630
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 661
-acceleration = 0.000788 , 0.000616
- ship volocity 0.042553 , 0.033246
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 662
-acceleration = 0.000788 , 0.000616
- ship volocity 0.043341 , 0.033861
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 663
-acceleration = 0.000788 , 0.000616
- ship volocity 0.044129 , 0.034477
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 664
-acceleration = 0.000788 , 0.000616
- ship volocity 0.044917 , 0.035093
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 665
-acceleration = 0.000788 , 0.000616
- ship volocity 0.045705 , 0.035708
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 666
-acceleration = 0.000788 , 0.000616
- ship volocity 0.046493 , 0.036324
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 667
-acceleration = 0.000788 , 0.000616
- ship volocity 0.047281 , 0.036940
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 668
-acceleration = 0.000788 , 0.000616
- ship volocity 0.048069 , 0.037555
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 669
-acceleration = 0.000788 , 0.000616
- ship volocity 0.048857 , 0.038171
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 670
-acceleration = 0.000788 , 0.000616
- ship volocity 0.049645 , 0.038787
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 671
-acceleration = 0.000788 , 0.000616
- ship volocity 0.050433 , 0.039402
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 672
-acceleration = 0.000788 , 0.000616
- ship volocity 0.051221 , 0.040018
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 673
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 674
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 675
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 676
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 677
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 678
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 679
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 680
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 681
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 682
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 683
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 684
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 685
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 686
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 687
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 688
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 689
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 690
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 691
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 692
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 693
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 694
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 695
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 696
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 697
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 698
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 699
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 700
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 701
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 702
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 703
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 704
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 705
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 706
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 707
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 708
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 709
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 710
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 711
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 712
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 713
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 714
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 715
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 716
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 717
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 718
 acceleration = 0.000000 , 0.000000
- ship volocity 0.051221 , 0.040018
+ ship volocity -0.000205 , 0.007630
 simulating time = 719
-acceleration = -0.000788 , -0.000616
- ship volocity 0.050433 , 0.039402
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 720
-acceleration = -0.000788 , -0.000616
- ship volocity 0.049645 , 0.038787
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 721
-acceleration = -0.000788 , -0.000616
- ship volocity 0.048857 , 0.038171
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 722
-acceleration = -0.000788 , -0.000616
- ship volocity 0.048069 , 0.037555
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 723
-acceleration = -0.000788 , -0.000616
- ship volocity 0.047281 , 0.036940
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 724
-acceleration = -0.000788 , -0.000616
- ship volocity 0.046493 , 0.036324
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 725
-acceleration = -0.000788 , -0.000616
- ship volocity 0.045705 , 0.035708
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 726
-acceleration = -0.000788 , -0.000616
- ship volocity 0.044917 , 0.035093
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 727
-acceleration = -0.000788 , -0.000616
- ship volocity 0.044129 , 0.034477
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 728
-acceleration = -0.000788 , -0.000616
- ship volocity 0.043341 , 0.033861
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 729
-acceleration = -0.000788 , -0.000616
- ship volocity 0.042553 , 0.033246
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 730
-acceleration = -0.000788 , -0.000616
- ship volocity 0.041765 , 0.032630
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 731
-acceleration = -0.000788 , -0.000616
- ship volocity 0.040977 , 0.032014
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 732
-acceleration = -0.000788 , -0.000616
- ship volocity 0.040189 , 0.031399
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 733
-acceleration = -0.000788 , -0.000616
- ship volocity 0.039401 , 0.030783
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 734
-acceleration = -0.000788 , -0.000616
- ship volocity 0.038613 , 0.030167
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 735
-acceleration = -0.000788 , -0.000616
- ship volocity 0.037825 , 0.029552
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 736
-acceleration = -0.000788 , -0.000616
- ship volocity 0.037037 , 0.028936
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 737
-acceleration = -0.000788 , -0.000616
- ship volocity 0.036248 , 0.028320
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 738
-acceleration = -0.000788 , -0.000616
- ship volocity 0.035460 , 0.027705
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 739
-acceleration = -0.000788 , -0.000616
- ship volocity 0.034672 , 0.027089
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 740
-acceleration = -0.000788 , -0.000616
- ship volocity 0.033884 , 0.026473
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 741
-acceleration = -0.000788 , -0.000616
- ship volocity 0.033096 , 0.025858
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 742
-acceleration = -0.000788 , -0.000616
- ship volocity 0.032308 , 0.025242
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 743
-acceleration = -0.000788 , -0.000616
- ship volocity 0.031520 , 0.024626
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 744
-acceleration = -0.000788 , -0.000616
- ship volocity 0.030732 , 0.024011
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 745
-acceleration = -0.000788 , -0.000616
- ship volocity 0.029944 , 0.023395
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 746
-acceleration = -0.000788 , -0.000616
- ship volocity 0.029156 , 0.022779
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 747
-acceleration = -0.000788 , -0.000616
- ship volocity 0.028368 , 0.022164
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 748
-acceleration = -0.000788 , -0.000616
- ship volocity 0.027580 , 0.021548
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 749
-acceleration = -0.000788 , -0.000616
- ship volocity 0.026792 , 0.020933
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 750
-acceleration = -0.000788 , -0.000616
- ship volocity 0.026004 , 0.020317
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 751
-acceleration = -0.000788 , -0.000616
- ship volocity 0.025216 , 0.019701
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 752
-acceleration = -0.000788 , -0.000616
- ship volocity 0.024428 , 0.019086
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 753
-acceleration = -0.000788 , -0.000616
- ship volocity 0.023640 , 0.018470
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 754
-acceleration = -0.000788 , -0.000616
- ship volocity 0.022852 , 0.017854
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 755
-acceleration = -0.000788 , -0.000616
- ship volocity 0.022064 , 0.017239
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 756
-acceleration = -0.000788 , -0.000616
- ship volocity 0.021276 , 0.016623
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 757
-acceleration = -0.000788 , -0.000616
- ship volocity 0.020488 , 0.016007
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 758
-acceleration = -0.000788 , -0.000616
- ship volocity 0.019700 , 0.015392
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 759
-acceleration = -0.000788 , -0.000616
- ship volocity 0.018912 , 0.014776
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 760
-acceleration = -0.000788 , -0.000616
- ship volocity 0.018124 , 0.014160
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 761
-acceleration = -0.000788 , -0.000616
- ship volocity 0.017336 , 0.013545
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 762
-acceleration = -0.000788 , -0.000616
- ship volocity 0.016548 , 0.012929
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 763
-acceleration = -0.000788 , -0.000616
- ship volocity 0.015760 , 0.012313
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 764
-acceleration = -0.000788 , -0.000616
- ship volocity 0.014972 , 0.011698
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 765
-acceleration = -0.000788 , -0.000616
- ship volocity 0.014184 , 0.011082
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 766
-acceleration = -0.000788 , -0.000616
- ship volocity 0.013396 , 0.010466
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 767
-acceleration = -0.000788 , -0.000616
- ship volocity 0.012608 , 0.009851
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 768
-acceleration = -0.000788 , -0.000616
- ship volocity 0.011820 , 0.009235
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 769
-acceleration = -0.000788 , -0.000616
- ship volocity 0.011032 , 0.008619
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 770
-acceleration = -0.000788 , -0.000616
- ship volocity 0.010244 , 0.008004
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 771
-acceleration = -0.000788 , -0.000616
- ship volocity 0.009456 , 0.007388
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 772
-acceleration = -0.000788 , -0.000616
- ship volocity 0.008668 , 0.006772
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 773
-acceleration = -0.000788 , -0.000616
- ship volocity 0.007880 , 0.006157
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 774
-acceleration = -0.000788 , -0.000616
- ship volocity 0.007092 , 0.005541
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 775
-acceleration = -0.000788 , -0.000616
- ship volocity 0.006304 , 0.004925
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 776
-acceleration = -0.000788 , -0.000616
- ship volocity 0.005516 , 0.004310
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 777
-acceleration = -0.000788 , -0.000616
- ship volocity 0.004728 , 0.003694
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 778
-acceleration = -0.000788 , -0.000616
- ship volocity 0.003940 , 0.003078
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 779
-acceleration = -0.000788 , -0.000616
- ship volocity 0.003152 , 0.002463
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 780
-acceleration = -0.000788 , -0.000616
- ship volocity 0.002364 , 0.001847
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 781
-acceleration = -0.000788 , -0.000616
- ship volocity 0.001576 , 0.001231
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 782
-acceleration = -0.000788 , -0.000616
- ship volocity 0.000788 , 0.000616
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 783
-acceleration = -0.000788 , -0.000616
- ship volocity 0.000000 , 0.000000
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 784
-acceleration = -0.000788 , -0.000616
- ship volocity -0.000788 , -0.000616
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 785
-acceleration = -0.000788 , -0.000616
- ship volocity -0.001576 , -0.001231
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 786
-acceleration = -0.000788 , -0.000616
- ship volocity -0.002364 , -0.001847
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 787
-acceleration = -0.000788 , -0.000616
- ship volocity -0.003152 , -0.002463
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 788
-acceleration = -0.000788 , -0.000616
- ship volocity -0.003940 , -0.003078
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 789
-acceleration = -0.000788 , -0.000616
- ship volocity -0.004728 , -0.003694
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 790
-acceleration = -0.000788 , -0.000616
- ship volocity -0.005516 , -0.004310
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 791
-acceleration = -0.000788 , -0.000616
- ship volocity -0.006304 , -0.004925
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 792
-acceleration = -0.000788 , -0.000616
- ship volocity -0.007092 , -0.005541
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 793
-acceleration = -0.000788 , -0.000616
- ship volocity -0.007880 , -0.006157
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 794
-acceleration = -0.000788 , -0.000616
- ship volocity -0.008668 , -0.006772
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 795
-acceleration = -0.000788 , -0.000616
- ship volocity -0.009456 , -0.007388
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 796
-acceleration = -0.000788 , -0.000616
- ship volocity -0.010244 , -0.008004
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 797
-acceleration = -0.000788 , -0.000616
- ship volocity -0.011032 , -0.008619
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 798
-acceleration = -0.000788 , -0.000616
- ship volocity -0.011820 , -0.009235
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 799
-acceleration = -0.000788 , -0.000616
- ship volocity -0.012608 , -0.009851
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 800
-acceleration = -0.000788 , -0.000616
- ship volocity -0.013396 , -0.010466
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 801
-acceleration = -0.000788 , -0.000616
- ship volocity -0.014184 , -0.011082
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 802
-acceleration = -0.000788 , -0.000616
- ship volocity -0.014972 , -0.011698
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 803
-acceleration = -0.000788 , -0.000616
- ship volocity -0.015760 , -0.012313
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 804
-acceleration = -0.000788 , -0.000616
- ship volocity -0.016548 , -0.012929
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 805
-acceleration = -0.000788 , -0.000616
- ship volocity -0.017336 , -0.013545
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 806
-acceleration = -0.000788 , -0.000616
- ship volocity -0.018124 , -0.014160
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 807
-acceleration = -0.000788 , -0.000616
- ship volocity -0.018912 , -0.014776
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 808
-acceleration = -0.000788 , -0.000616
- ship volocity -0.019700 , -0.015392
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 809
-acceleration = -0.000788 , -0.000616
- ship volocity -0.020488 , -0.016007
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 810
-acceleration = -0.000788 , -0.000616
- ship volocity -0.021276 , -0.016623
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 811
-acceleration = -0.000788 , -0.000616
- ship volocity -0.022064 , -0.017239
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 812
-acceleration = -0.000788 , -0.000616
- ship volocity -0.022852 , -0.017854
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 813
-acceleration = -0.000788 , -0.000616
- ship volocity -0.023640 , -0.018470
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 814
-acceleration = -0.000788 , -0.000616
- ship volocity -0.024428 , -0.019086
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 815
-acceleration = -0.000788 , -0.000616
- ship volocity -0.025216 , -0.019701
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 816
-acceleration = -0.000788 , -0.000616
- ship volocity -0.026004 , -0.020317
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 817
-acceleration = -0.000788 , -0.000616
- ship volocity -0.026792 , -0.020933
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 818
-acceleration = -0.000788 , -0.000616
- ship volocity -0.027580 , -0.021548
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 819
-acceleration = -0.000788 , -0.000616
- ship volocity -0.028368 , -0.022164
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 820
-acceleration = -0.000788 , -0.000616
- ship volocity -0.029156 , -0.022779
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 821
-acceleration = -0.000788 , -0.000616
- ship volocity -0.029944 , -0.023395
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 822
-acceleration = -0.000788 , -0.000616
- ship volocity -0.030732 , -0.024011
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 823
-acceleration = -0.000788 , -0.000616
- ship volocity -0.031520 , -0.024626
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 824
-acceleration = -0.000788 , -0.000616
- ship volocity -0.032308 , -0.025242
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 825
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 826
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 827
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 828
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 829
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 830
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 831
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 832
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 833
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 834
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 835
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 836
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 837
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 838
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 839
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 840
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 841
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 842
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 843
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 844
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 845
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 846
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 847
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 848
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 849
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 850
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 851
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 852
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 853
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 854
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 855
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 856
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 857
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 858
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 859
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 860
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 861
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 862
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 863
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 864
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 865
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 866
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 867
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 868
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 869
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 870
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 871
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 872
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 873
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 874
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 875
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 876
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 877
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 878
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 879
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 880
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 881
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 882
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 883
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 884
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 885
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 886
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 887
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 888
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 889
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 890
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 891
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 892
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 893
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 894
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 895
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 896
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 897
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 898
 acceleration = 0.000000 , 0.000000
- ship volocity -0.032308 , -0.025242
+ ship volocity -0.000205 , 0.007630
 simulating time = 899
-acceleration = 0.000788 , 0.000616
- ship volocity -0.031520 , -0.024626
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 900
-acceleration = 0.000788 , 0.000616
- ship volocity -0.030732 , -0.024011
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 901
-acceleration = 0.000788 , 0.000616
- ship volocity -0.029944 , -0.023395
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 902
-acceleration = 0.000788 , 0.000616
- ship volocity -0.029156 , -0.022779
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 903
-acceleration = 0.000788 , 0.000616
- ship volocity -0.028368 , -0.022164
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 904
-acceleration = 0.000788 , 0.000616
- ship volocity -0.027580 , -0.021548
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 905
-acceleration = 0.000788 , 0.000616
- ship volocity -0.026792 , -0.020933
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 906
-acceleration = 0.000788 , 0.000616
- ship volocity -0.026004 , -0.020317
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 907
-acceleration = 0.000788 , 0.000616
- ship volocity -0.025216 , -0.019701
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 908
-acceleration = 0.000788 , 0.000616
- ship volocity -0.024428 , -0.019086
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 909
-acceleration = 0.000788 , 0.000616
- ship volocity -0.023640 , -0.018470
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 910
-acceleration = 0.000788 , 0.000616
- ship volocity -0.022852 , -0.017854
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 911
-acceleration = 0.000788 , 0.000616
- ship volocity -0.022064 , -0.017239
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 912
-acceleration = 0.000788 , 0.000616
- ship volocity -0.021276 , -0.016623
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 913
-acceleration = 0.000788 , 0.000616
- ship volocity -0.020488 , -0.016007
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
 simulating time = 914
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 915
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 916
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 917
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 918
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 919
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 920
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 921
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 922
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 923
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 924
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 925
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 926
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 927
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 928
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 929
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 930
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 931
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 932
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 933
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 934
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 935
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 936
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 937
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 938
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 939
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 940
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 941
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 942
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 943
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 944
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 945
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 946
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 947
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 948
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 949
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 950
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 951
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 952
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 953
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 954
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 955
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 956
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 957
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 958
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 959
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 960
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 961
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 962
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 963
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 964
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 965
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 966
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 967
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 968
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 969
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 970
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 971
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 972
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 973
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 974
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 975
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 976
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 977
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 978
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 979
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 980
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 981
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 982
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 983
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 984
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 985
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 986
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 987
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 988
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 989
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 990
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 991
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 992
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 993
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 994
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 995
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 996
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 997
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 998
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 999
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 1000
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 1001
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 1002
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 1003
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 1004
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
 simulating time = 1005
 acceleration = 0.000000 , 0.000000
- ship volocity -0.020488 , -0.016007
+ ship volocity -0.000205 , 0.007630
+simulating time = 1006
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1007
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1008
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1009
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1010
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1011
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1012
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1013
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1014
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1015
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1016
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1017
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630
+simulating time = 1018
+acceleration = 0.000000 , 0.000000
+ ship volocity -0.000205 , 0.007630

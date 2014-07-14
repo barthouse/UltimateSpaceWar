@@ -32,3 +32,7 @@ void Present()
 	Render2D_Present();
 }
 
+void DrawSprite(Sprite * sprite)
+{
+    Render2D_DrawSprite(sprite);
+}
