@@ -29,17 +29,11 @@ typedef struct
 
 Ship test_ship = { 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 };
 
-typedef struct 
-{
-	float	m_x;
-	float	m_y;
-} Point;
-
 Sprite g_shipSprite = 
 {
     { 0, 0 },
     { 0.0f, 0.0f },
-    1.0f,
+    3.0f,
     0.0f
 };
 
@@ -151,9 +145,8 @@ bool SimulateAndDraw(void)
 	fprintf(g_logFile, "acceleration = %f , %f\n ship volocity %f , %f\n", test_ship.m_acceleration_x, test_ship.m_acceleration_y, test_ship.m_velocity_x, test_ship.m_velocity_y);
 	printf("\n\tPosition of ship %f , %f\n \t testship heading %f\n ship velocity %f , %f\n", test_ship.m_x , test_ship.m_y , test_ship.heading , test_ship.m_velocity_x, test_ship.m_velocity_y);
 
+	// Update sprite with new position
     g_shipSprite.m_position = Float2D(test_ship.m_x, test_ship.m_y);
-    g_shipSprite.m_scale = 3.0;
-    g_shipSprite.m_tile = Int2D(0, 0);
     g_shipSprite.m_rotation = Degrees_to_radians(test_ship.heading);
 
 	Clear();
